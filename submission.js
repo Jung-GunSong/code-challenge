@@ -75,6 +75,7 @@ const removeParenth = function (str) {
   return result;
 };
 
+
 const scoreScrabble = function (str) {
   // your code here - don't forget to return a number!
   let onePointsEach = ["a", "e", "i", "o", "u", "l", "n", "r", "s", "t"];
